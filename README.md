@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Luis Felipe Balcáceres Silvestre<br>Title: Software Engineering Student | Bilingual Virtual Assistant | Call Center Professional<br>Location: Santa Ana, El Salvador<br>About me: Fourth-year Software Engineering student passionate about technology and client-facing work, with hands-on experience in customer service and sales environments.<br><br>Tech Stack / Skills to display as badges:<br><br>Java<br>Node.js<br>SQL<br>MySQL<br>HTML5<br>Android SDK<br>JavaScript<br>Windows<br><br>Tools & Productivity:<br><br>Microsoft Excel<br>Microsoft Word<br>PowerPoint<br><br>Soft Skills to mention:<br><br>Bilingual (English & Spanish)<br>Strong communication<br>Results-driven<br>Detail-oriented<br>Fast learner<br><br>Sections to include:<br><br>A short "About Me" paragraph<br>🛠️ Tech Stack with badges<br>📊 GitHub Stats widget<br>🌐 Languages spoken<br>📫 Contact info (email: felipebalcaceressl@gmail.com)<br><br>Style preferences:<br><br>Professional and clean<br>Use shields.io badges for technologies<br>Include GitHub streak stats and top languages widgets
+👋 Hi, I'm Luis Felipe!<br>🎓 Software Engineering Student at Universidad Católica de El Salvador<br>📍 Santa Ana, El Salvador<br><br>💬 Soft Skills<br>✅ Bilingual — English & Spanish<br>✅ Strong communication<br>✅ Results-driven & goal-oriented<br>✅ Detail-oriented<br>✅ Fast learner<br>✅ Team player<br><br>🌐 Languages<br>🇸🇻 Spanish — Native<br>🇺🇸 English — Advanced<br><br>📫 Contact me<br>felipebalcaceressl@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,4 +15,10 @@ Name: Luis Felipe Balcáceres Silvestre<br>Title: Software Engineering Student |
 ---
 [![](https://komarev.com/ghpvc/?username=balcaceres-l&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.shion.dev/api?username=balcaceres-l&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=balcaceres-l&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=balcaceres-l&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=balcaceres-l&icon=0&color=0)](https://visitcount.itsvg.in)
+
